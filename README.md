@@ -17,9 +17,8 @@
 - Go 1.18+ installed
 - Access to the internet for real-time threat data and IP checks.
 
-### Clone the repository
+### Download or clone the repository
 ```
-git clone https://github.com/j4gwire/SentinelIP.git
 cd SentinelIP
 ```
 
